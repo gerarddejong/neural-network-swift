@@ -1,3 +1,6 @@
 # simple-neural-network
-A simple neural network implementation written in Swift for the Linux.
+A simple neural network implementation written in Swift for Linux.
+
+## Feedforward Neural Network
+
 
